@@ -1,0 +1,2 @@
+# Product-Review-Analysis
+Customer reviews &amp; feedback are crucial for any product in the market. Product reviews &amp; feedback from customers play a pivotal role in enriching the product's quality &amp; alongside meet the market expectations. It is easy for any seller to get reviews through one-one conversations with customers if the product is sold in offline stores, but it is difficult to retrieve &amp; analyse the same reviews if the same product is sold online.
